@@ -93,7 +93,7 @@ MIT License
 
 ## Author
 
-\[Prefrontal Corporate]
+For questions or collaborations, please open an issue or contact the maintainer.
 
 ---
 
